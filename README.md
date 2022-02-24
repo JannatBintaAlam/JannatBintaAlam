@@ -2,7 +2,7 @@
 - 👀 I’m interested in all about Innovation and Technology.
 - 🌱 I’m currently learning Angular, JAVA, Spring, NodeJS
 - 💞️ I’m looking to collaborate on interview preparation guideline.
-- 📫 How to reach me [here] (https://www.linkedin.com/in/jannatbintaalam/)
+- 📫 How to reach me [here](https://www.linkedin.com/in/jannatbintaalam/)
 
 <!---
 JannatBintaAlam/JannatBintaAlam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
